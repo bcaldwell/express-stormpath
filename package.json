@@ -31,7 +31,7 @@
     "forms": "^1.1.4",
     "jade": "^1.11.0",
     "lodash": "^3.10.1",
-    "njwt": "^0.2.3",
+    "njwt": "^1.0.0",
     "parse-iso-duration": "^1.0.0",
     "request": "^2.63.0",
     "stormpath": "^0.15.0",
